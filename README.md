@@ -1,2 +1,2 @@
-# world-solver
+# wordle-solver
 just a world solver
